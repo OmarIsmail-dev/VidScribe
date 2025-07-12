@@ -1,4 +1,4 @@
-# 🎥 VidScribe - AI-Powered Video Transcription, Translation 
+# 🎥 VidScribe - AI Video Transcription, Translation 
 
 VidScribe is a full-stack Laravel + Python Flask application that enables users to upload videos, automatically transcribe the speech using OpenAI Whisper, translate it to a target language using AI translation models (Google Translate)
 
