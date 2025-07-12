@@ -21,9 +21,6 @@ VidScribe is a full-stack Laravel + Python Flask application that enables users 
 - **Background Tasks**: Async processing via Flask
 - **Communication**: RESTful APIs between Laravel ↔ Flask
 
-## 🖼️ Screenshots
-
-_(Add these if available: Upload screen, dashboard, transcription view, translated output, video with subtitle)_
 
 ## 🔬 Folder Structure
 
@@ -34,7 +31,8 @@ _(Add these if available: Upload screen, dashboard, transcription view, translat
 
 ## 🎬 Demo
 
-▶️ [Click to watch full demo](https://drive.google.com/file/d/10hipLGCaI1nnFjBcYVncTmPNp3Kj8O1p/view?usp=drive_link)
+Watch a full demo of VidScribe in action:  
+▶️ [Click to watch on Google Drive](https://drive.google.com/file/d/1v2uitHluM-rCKpwoPBPwNVu3MDregS5u/view?usp=drive_link)
 
 ## 📄 How it works
 
